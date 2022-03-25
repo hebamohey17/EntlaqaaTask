@@ -1,0 +1,13 @@
+{
+    "name": "FormList",
+    "alias": "formlist",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FormList\\Providers\\FormListServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
